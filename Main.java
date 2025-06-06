@@ -12,4 +12,8 @@ public class Main {
   public static void seyHi() {
     System.out.println("hi");
   }
+
+  public static void seyHi() {
+    System.out.println("hi");
+  }
 }
