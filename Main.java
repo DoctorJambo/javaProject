@@ -7,4 +7,8 @@ public class Main {
       System.out.println("aboba");
     }
   }
+
+  public static void seyHi() {
+    System.out.println("hi");
+  }
 }
