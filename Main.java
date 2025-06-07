@@ -9,6 +9,8 @@ public class Main {
 
     Student bob = new Student(12,"Bob","Math");
     System.out.println(bob);
+
+    seyHi();
   }
 
   public static void seyHi() {
