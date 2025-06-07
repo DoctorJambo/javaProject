@@ -6,6 +6,9 @@ public class Main {
     for (int i = 0; i < 10; i++) {
       System.out.println("aboba");
     }
+
+    Student bob = new Student(12,"Bob","Math");
+    System.out.println(bob);
   }
 
   public static void seyHi() {
