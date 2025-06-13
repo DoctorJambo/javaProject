@@ -11,5 +11,6 @@ public class Main {
 
   public static void seyHi() {
     System.out.println("hello");
+    System.out.println("hello Aboba");
   }
 }
