@@ -6,6 +6,10 @@ public class Main {
     for (int i = 0; i < 100; i += 2) {
       System.out.println("aboba");
     }
+
+    Student bob = new Student(12,"Bob","Math");
+    System.out.println(bob);
+
     seyHi();
   }
 
