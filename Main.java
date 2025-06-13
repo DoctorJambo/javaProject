@@ -3,7 +3,7 @@ public class Main {
 
     System.out.println("hello world");
 
-    for (int i = 0; i < 10; i++) {
+    for (int i = 0; i < 100; i += 2) {
       System.out.println("aboba");
     }
     seyHi();
